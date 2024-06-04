@@ -1,0 +1,14 @@
+//
+//  Staging.xcconfig
+//  SampleEnviromentSetup
+//
+//  Created by Hoang Son Vo Phuoc on 5/28/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+FX_APP_NAME = Project (Staging)
+FX_APP_VERSION = 0.2
+FX_APP_BUNDLE_ID = com.fx.TheLastProject.Staging
+BACKEND_URL = http:\/\/api.intensifystudio.com/staging

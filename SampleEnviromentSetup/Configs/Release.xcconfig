@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  SampleEnviromentSetup
+//
+//  Created by Hoang Son Vo Phuoc on 5/28/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+FX_APP_NAME = The Last Project
+FX_APP_VERSION = 0.1
+FX_APP_BUNDLE_ID = com.fx.TheLastProject.Release
+BACKEND_URL = http:\/\/api.intensifystudio.com/
